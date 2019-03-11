@@ -1,0 +1,1 @@
+"#Szeregowanie zadaä (algorytm genetyczny)" 
